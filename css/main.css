@@ -1,0 +1,8 @@
+body {
+    background-color: #f1f1f4;
+}
+#penguins {
+    width: 600px;
+    margin: auto;
+    padding: 50px;
+}
