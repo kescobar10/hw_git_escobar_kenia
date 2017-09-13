@@ -6,3 +6,19 @@ body {
     margin: auto;
     padding: 50px;
 }
+p, h1 {
+    font-family: 'Roboto Condensed';
+}
+h1 {
+    font-size: 30px;
+    color: #333399;
+}
+h2 {
+    font-size: 25px;
+    color: #73738c;
+}
+p {
+    font-size: 16px;
+    color: #73738c;
+    line-height: 1.5;
+}
